@@ -27,5 +27,11 @@
     <ClCompile Include="点和圆的关系.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="深拷贝额、和浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成员对象顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
