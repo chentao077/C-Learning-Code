@@ -1,2 +1,3 @@
-﻿  14 继承同名静态成员处理方式.cpp
+﻿  16 多态案例-计算器类.cpp
+G:\C语言\CPP--Learning-Code\test c++\test c++\16 多态案例-计算器类.cpp(23): warning C4715: “Calculator::get”: 不是所有的控件路径都返回值
   test c++.vcxproj -> G:\C语言\CPP--Learning-Code\test c++\x64\Debug\test c++.exe

@@ -57,5 +57,11 @@
     <ClCompile Include="14 继承同名静态成员处理方式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="15 虚继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16 多态案例-计算器类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
