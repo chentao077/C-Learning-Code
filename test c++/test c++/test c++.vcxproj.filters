@@ -60,7 +60,16 @@
     <ClCompile Include="15 虚继承.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="16 多态案例-计算器类.cpp">
+    <ClCompile Include="16 多态案例1-计算器类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17 多态案例2-制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18 虚析构和纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19 多态案例3-电脑组装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
