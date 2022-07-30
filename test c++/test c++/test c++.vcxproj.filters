@@ -78,5 +78,8 @@
     <ClCompile Include="21 读写二进制文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="22 函数模板案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
