@@ -81,5 +81,11 @@
     <ClCompile Include="22 函数模板案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="23 类模板成员函数类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板与友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
