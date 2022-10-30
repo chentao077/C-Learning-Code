@@ -84,7 +84,19 @@
     <ClCompile Include="23 类模板成员函数类外实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="类模板与友元.cpp">
+    <ClCompile Include="24 类模板与友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25 图形类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26 分数、复数加减乘除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27 教师类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28 抽象图形类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
